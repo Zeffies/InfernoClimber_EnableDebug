@@ -24,19 +24,19 @@ https://i.imgur.com/Y55yhQe.mp4
        -- open BepInEx.cfg with an editor ( Notepad works)
        -- Replace everything in [Preloader.Entrypoint] with:
 
-## The local filename of the assembly to target.
-# Setting type: String
-# Default value: UnityEngine.dll
+\## The local filename of the assembly to target.
+\# Setting type: String
+\# Default value: UnityEngine.dll
 Assembly = UnityEngine.dll
 
-## The name of the type in the entrypoint assembly to search for the entrypoint method.
-# Setting type: String
-# Default value: Application
+\## The name of the type in the entrypoint assembly to search for the entrypoint method.
+\# Setting type: String
+\# Default value: Application
 Type = MonoBehaviour
 
-## The name of the method in the specified entrypoint assembly and type to hook and load Chainloader from.
-# Setting type: String
-# Default value: .cctor
+\## The name of the method in the specified entrypoint assembly and type to hook and load Chainloader from.
+\# Setting type: String
+\# Default value: .cctor
 Method = .cctor
 
 MAKE SURE TO REPLACE EVERYTHING IN THE [Preloader.Entrypoint] SECTION WITH THE ABOVE
