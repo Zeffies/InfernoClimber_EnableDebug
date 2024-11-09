@@ -7,6 +7,7 @@ Navigate to Releases on the right sidebar on Github, click the latest release, a
 How to install mods for Inferno Climber (imgur links below each step to hopefully make it easy to follow):
 
 1.) Download BepInEx from https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.2 .
+
 !!! make sure to get the x86 version, you need this as Inferno Climber runs on it !!!
 
 https://i.imgur.com/1ld1Snl.mp4
@@ -16,6 +17,7 @@ https://i.imgur.com/1ld1Snl.mp4
 https://i.imgur.com/tw4TwQi.mp4
 
 3.) run Inferno Climber after extracting the BepInEx archive in the folder. This will generate some folders you need. 
+
 !!! the game will crash, this is normal !!!
 
 https://i.imgur.com/Y55yhQe.mp4
