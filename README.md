@@ -1,4 +1,6 @@
-Enables use of debug menu while in game. https://imgur.com/a/DfXoqeW
+Enables use of debug menu while in game. 
+
+https://imgur.com/a/DfXoqeW
 
 Navigate to Releases on the right sidebar on Github, click the latest release, and download the DLL file and place it in your InfernoClimber\BepInEx\plugins folder.
 
@@ -24,6 +26,7 @@ https://i.imgur.com/Y55yhQe.mp4
        -- open BepInEx.cfg with an editor ( Notepad works)
        -- Scroll down to [Preloader.Entrypoint]
        -- Change Type = Application to Type = MonoBehaviour
+       -- Remember to save the notepad file!
 
 https://i.imgur.com/8YSEceI.mp4
 
