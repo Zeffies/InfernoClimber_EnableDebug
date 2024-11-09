@@ -18,7 +18,9 @@ https://i.imgur.com/1ld1Snl.mp4
 
 2.) extract all of the files from the BepInEx archive into the folder Inferno Climber's exe is in 
 
-( something like C:\Program Files (x86)\Steam\steamapps\common\InfernoClimber ). Inferno Climber's exe is called ARPG .exe
+( something like C:\Program Files (x86)\Steam\steamapps\common\InfernoClimber ). 
+
+Inferno Climber's exe is called ARPG.exe
 
 https://i.imgur.com/tw4TwQi.mp4
 
