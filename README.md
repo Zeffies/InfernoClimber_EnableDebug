@@ -24,6 +24,7 @@ https://i.imgur.com/Y55yhQe.mp4
        -- open BepInEx.cfg with an editor ( Notepad works)
        -- Replace everything in [Preloader.Entrypoint] with:
 
+
 \## The local filename of the assembly to target.
 \# Setting type: String
 \# Default value: UnityEngine.dll
