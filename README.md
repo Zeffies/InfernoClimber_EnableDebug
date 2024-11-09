@@ -22,29 +22,10 @@ https://i.imgur.com/Y55yhQe.mp4
 
        -- navigate to \InfernoClimber\BepInEx\config
        -- open BepInEx.cfg with an editor ( Notepad works)
-       -- Replace everything in [Preloader.Entrypoint] with:
+       -- Scroll down to [Preloader.Entrypoint]
+       -- Change Type = Application to Type = MonoBehaviour
 
-
-\## The local filename of the assembly to target.
-\# Setting type: String
-\# Default value: UnityEngine.dll
-Assembly = UnityEngine.dll
-
-
-\## The name of the type in the entrypoint assembly to search for the entrypoint method.
-\# Setting type: String
-\# Default value: Application
-Type = MonoBehaviour
-
-\## The name of the method in the specified entrypoint assembly and type to hook and load Chainloader from.
-\# Setting type: String
-\# Default value: .cctor
-Method = .cctor
-
-
-MAKE SURE TO REPLACE EVERYTHING IN THE [Preloader.Entrypoint] SECTION WITH THE ABOVE
-
-https://i.imgur.com/gWqI4lN.mp4
+https://i.imgur.com/8YSEceI.mp4
 
 5.)  Optionally, you can enable BepInEx's logging console. It's in the [Logging.Console] section. I recommend it, personally.
 
