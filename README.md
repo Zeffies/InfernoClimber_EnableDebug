@@ -1,10 +1,10 @@
-Enables use of debug menu while in game. 
+Enables use of debug menu while in game.
 
 https://imgur.com/a/DfXoqeW
 
 Navigate to Releases on the right sidebar on Github, click the latest release, and download the DLL file and place it in your InfernoClimber\BepInEx\plugins folder.
 
-How to install mods for Inferno Climber:
+How to install mods for Inferno Climber (imgur links below each step to hopefully make it easy to follow):
 
 1.) Download BepInEx from https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.2 .
 !!! make sure to get the x86 version, you need this as Inferno Climber runs on it !!!
